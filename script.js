@@ -16,7 +16,6 @@ modalClose.addEventListener("click", () => {
 
 // 外枠クリックでモーダルを閉じる
 document.addEventListener("click", (e) => {
-  // console.log(e.target);
   if (e.target == modal) {
     modal.style.display = "none";
   }

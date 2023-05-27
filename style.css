@@ -1,5 +1,4 @@
 #modalOpen {
-  /* display: none; */
   background-color: #8dbd60;
   color: white;
   border: none;
@@ -23,7 +22,7 @@
   z-index: 1;
 }
 
-.modal-content {
+.modalContent {
   background-color: #fff;
   margin: 15px auto;
   width: 50%;
